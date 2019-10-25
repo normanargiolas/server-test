@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test Server - Only for test use!",
+  "author": "Norman Argiolas <normanargiolasgmail.com>",
+  "main": "app.js",
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "express": "^4.17.1",
+    "firebase": "^7.2.1",
+    "firebase-admin": "^8.6.1",
+    "dotenv": "^8.2.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "http-errors": "^1.7.3",
+    "ejs": "^2.7.1",
+    "path": "^0.12.7",
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
