@@ -36,7 +36,6 @@ typings/
 *.tgz
 .yarn-integrity
 serviceAccount.json
-.env
 .next
 ./tmp
 
