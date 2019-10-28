@@ -35,7 +35,6 @@ typings/
 .node_repl_history
 *.tgz
 .yarn-integrity
-.env
 serviceAccount.json
 .next
 ./tmp
