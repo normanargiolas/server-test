@@ -38,6 +38,7 @@ typings/
 .env
 serviceAccount.json
 .next
+./tmp
 
 docker/app
 !docker/app/docker-compose.yml
